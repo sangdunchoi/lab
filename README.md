@@ -1,2 +1,2 @@
 # plantevolution.github.io
-Repository for the plantevolution.org website
+Repository for the www.plantevolution.org website
